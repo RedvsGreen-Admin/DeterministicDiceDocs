@@ -667,7 +667,6 @@ target="index_files/props025.xml">
    Name="Smart Link"/>
  </w:LatentStyles>
 </xml><![endif]-->
-<style>
 <!--
  /* Font Definitions */
  @font-face
@@ -1361,7 +1360,6 @@ ol
 ul
 	{margin-bottom:0cm;}
 -->
-</style>
 <!--[if gte mso 10]>
 <style>
  /* Style Definitions */
@@ -1422,8 +1420,8 @@ word-wrap:break-word'>
 Dice Roller Documentation</span></a><span lang=SV style='mso-ansi-language:
 SV'><o:p></o:p></span></h1>
 
-<w:Sdt SdtDocPart="t" DocPartType="Table of Contents" DocPartUnique="t"
- ID="1438634666">
+
+
  <p class=MsoTocHeading><span lang=EN-US style='mso-ansi-language:EN-US'>Contents<o:p></o:p><w:sdtPr></w:sdtPr></span></p>
  <p class=MsoToc1 style='tab-stops:right dotted 467.5pt'><!--[if supportFields]><span
  lang=EN-US style='mso-ansi-language:EN-US'><span style='mso-element:field-begin'></span><span
